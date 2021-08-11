@@ -27,6 +27,7 @@ MonadCatchIO-mtl at 0.3.1.0: https://src.fedoraproject.org/rpms/ghc-MonadCatchIO
 MonadCatchIO-transformers at 0.3.1.3: https://src.fedoraproject.org/rpms/ghc-MonadCatchIO-transformers
 MonadRandom at 0.5.2: https://src.fedoraproject.org/rpms/ghc-MonadRandom
 NumInstances at 1.4: https://src.fedoraproject.org/rpms/ghc-NumInstances
+ObjectName at 1.1.0.1: https://src.fedoraproject.org/rpms/ghc-ObjectName
 Only at 0.1: https://src.fedoraproject.org/rpms/ghc-Only
 OpenGLRaw at 3.3.4.0: https://src.fedoraproject.org/rpms/ghc-OpenGLRaw
 QuickCheck at 2.13.2: https://src.fedoraproject.org/rpms/ghc-QuickCheck
@@ -223,7 +224,7 @@ extensible-exceptions at 0.1.1.4: https://src.fedoraproject.org/rpms/ghc-extensi
 extra at 1.7.3: https://src.fedoraproject.org/rpms/ghc-extra
 failure at 0.2.0.3: https://src.fedoraproject.org/rpms/ghc-failure
 fast-logger at 3.0.1: https://src.fedoraproject.org/rpms/ghc-fast-logger
-fbrnch at 0.9: https://src.fedoraproject.org/rpms/fbrnch
+fbrnch at 0.9.1.1: https://src.fedoraproject.org/rpms/fbrnch
 fclabels at 2.0.5: https://src.fedoraproject.org/rpms/ghc-fclabels
 fdo-notify at 0.3.1: https://src.fedoraproject.org/rpms/ghc-fdo-notify
 feed at 1.3.0.1: https://src.fedoraproject.org/rpms/ghc-feed
